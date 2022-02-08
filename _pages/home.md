@@ -13,6 +13,6 @@ author_profile: true
 
 Applied mathematician at Oak Ridge National Laboratory at the Center for Nanophase Materials Science Division.
 
-# Undergrad
+# Undergraduate Career
 
 Graduated from UC Berkeley in 2018 with a B.A. in applied mathematics with a concentration in chemical & materials science engineering.
