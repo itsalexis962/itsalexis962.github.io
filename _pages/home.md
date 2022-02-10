@@ -5,7 +5,7 @@ title: " "
 header:
   overlay_image: /assets/backdrop.jpeg
   image_description: "Flores-Betancourt in Sunset"
-  caption: "The Campanile at Sunset"
+  caption: "Camper and I at Huckleberry Knob"
 author_profile: true
 ---
 
