@@ -3,7 +3,7 @@ permalink: /
 excerpt: "Alexis Flores-Betancourt"
 title: " "
 header:
-  overlay_image: /assets/profile.JPG
+  overlay_image: /assets/backdrop.jpeg
   image_description: "Flores-Betancourt in Sunset"
   caption: "Photo credit: Haakon Ludvig Langeland Ervik"
 author_profile: true
