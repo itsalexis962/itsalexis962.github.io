@@ -5,7 +5,7 @@ title: " "
 header:
   overlay_image: /assets/backdrop.jpeg
   image_description: "Flores-Betancourt in Sunset"
-  caption: "Photo credit: Haakon Ludvig Langeland Ervik"
+  caption: "The Campanile at Sunset"
 author_profile: true
 ---
 
