@@ -3,7 +3,7 @@ permalink: /
 excerpt: "ALEXIS FLORES-BETANCOURT"
 title: " "
 header:
-  overlay_image: /assets/backdrop.jpeg
+  overlay_image: /assets/AFB_Picture.jpeg
   image_description: "Flores-Betancourt in Sunset"
   caption: "Camper and I at Huckleberry Knob"
 author_profile: true
