@@ -3,7 +3,7 @@ permalink: /
 excerpt: "ALEXIS FLORES-BETANCOURT"
 title: " "
 header:
-  overlay_image: /assets/IMG_1693 (1).jpg
+  overlay_image: /assets/SF.jpg
   image_description: "Flores-Betancourt in Sunset"
   caption: "San Francisco from my kitchen window."
 author_profile: true
