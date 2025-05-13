@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Alexis Flores-Betancourt"
+excerpt: "ALEXIS FLORES-BETANCOURT"
 title: " "
 header:
   overlay_image: /assets/backdrop.jpeg
@@ -11,7 +11,7 @@ author_profile: true
 
 # Current
 
-Applied mathematician at Oak Ridge National Laboratory at the Center for Nanophase Materials Science Division.
+Account Manager at Uncountable since 2022.
 
 # Undergraduate Career
 
