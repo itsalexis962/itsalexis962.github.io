@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "ALEXIS FLORES-BETANCOURT"
+excerpt: ""The thing that makes you exceptional, if you are at all, is inevitably that which must also make you lonely." "
 title: " "
 header:
   overlay_image: /assets/SF.jpg
