@@ -103,9 +103,9 @@ analytics:
 # Site Author
 author:
   name             : "Alexis Flores-Betancourt"
-  avatar           : "/assets/profile.jpeg"
-  bio              : "applied mathematician,materials researcher, photographer, dog mom, runner, latina"
-  location         : "Knoxville, TN"
+  avatar           : "/assets/AFB_Picture.jpeg"
+  bio              : "applied mathematician,materials researcher, photographer, runner, mexicana"
+  location         : "San Francisco, CA"
   email            : "betancourtaf96@gmail.com"
   links:
     - label: "GitHub"
