@@ -3,9 +3,9 @@ permalink: /
 excerpt: "ALEXIS FLORES-BETANCOURT"
 title: " "
 header:
-  overlay_image: /assets/backdrop.jpeg
+  overlay_image: /assets/IMG_1693 (1).jpg
   image_description: "Flores-Betancourt in Sunset"
-  caption: "Camper and I at Huckleberry Knob"
+  caption: "San Francisco from my kitchen window."
 author_profile: true
 ---
 
