@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "Alexis Flores-Betancourt"
   avatar           : "/assets/AFB_Picture.JPG"
-  bio              : "applied mathematician | materials researcher | photographer | runner | mexicana"
+  bio              : "applied mathematician • materials • researcherphotographer • runner • mexicana"
   location         : "San Francisco, CA"
   email            : "betancourtaf96@gmail.com"
   links:
@@ -125,6 +125,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/floresbalexis/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/itsalexis962"
