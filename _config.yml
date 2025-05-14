@@ -108,15 +108,19 @@ author:
   location         : "San Francisco, CA"
   email            : "betancourtaf96@gmail.com"
   links:
+  
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/floresbalexis/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/iits_alexis/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/itsalexis962"
     - label: "orcid"
       icon: "fab fa-orcid"
       url: "https://orcid.org/0000-0002-0524-0252"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/iits_alexis/"
 
 # Site Footer
 footer:
