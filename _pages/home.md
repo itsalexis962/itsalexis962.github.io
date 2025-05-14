@@ -13,11 +13,12 @@ author_profile: true
 
 Account Manager at Uncountable since 2022.
 
-# Mentee
-
 # Professional Experience
+
 Oak Ridge National Laboratory 2019 - 2022
 
 # Undergraduate Career
 
 Graduated from UC Berkeley in 2018 with a B.A. in applied mathematics with a concentration in chemical & materials science engineering.
+
+# Mentee
