@@ -1,3 +1,10 @@
-layout: page
-title: "MENTEES"
-permalink: /https://itsalexis962.github.io/new/master/mentees
+---
+permalink: /
+excerpt: " "
+title: " MENTEES "
+header:
+  overlay_image: /assets/SF.jpg
+  image_description: "TBD"
+  caption: ""
+author_profile: false
+---
